@@ -12,8 +12,8 @@ UML схема - UML skeem
 Диаграмма последовательности - Järjekordne diagramm
 Диаграмма состояний - Oleku diagramm
 Диаграмма активности - Aktiivsus diagramm
-Диаграмма классов - 
-Диаграмма взаимодействий - 
+Диаграмма классов - klassi diagramm
+Диаграмма взаимодействий - Interaktsiooni diagramm
 Схема (диаграмма) баз данных- Andmebaasi diagramm
 CASE-средства - CASE cahendid
 -------------------------------------------
