@@ -8,10 +8,10 @@
 Проект по реализации - realiseerimis projekt
 Диаграмма Ганта - Gantti diagramm
 UML схема - UML skeem
-Диаграмма прецедентов - 
-Диаграмма последовательности - 
-Диаграмма состояний - 
-Диаграмма активности - 
+Диаграмма прецедентов - Kasuta juhtumi diagrammi
+Диаграмма последовательности - Järjekordne diagramm
+Диаграмма состояний - Oleku diagramm
+Диаграмма активности - Aktiivsus diagramm
 Диаграмма классов - 
 Диаграмма взаимодействий - 
 Схема (диаграмма) баз данных- Andmebaasi diagramm
