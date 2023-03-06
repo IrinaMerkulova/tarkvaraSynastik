@@ -21,27 +21,29 @@ CASE-средства - CASE cahendid
 Техническая документация - tehniline dokumentatsioon
 Пользовательская документация - kasutaja dokumentatsioon
 Система управления версиями - versioonihaldus süsteem
-Локальное управление - kohalik 
-Централизованное управление - 
-Распределенное управление - 
-Критический путь проекта - 
-Аутсорсинг - 
-Краудсорсинг - 
-IT аудит - 
-ERP системы - 
-Методики - 
-Каскадная модель - 
-Спиральная модель  - 
-Инкрементальная модель - 
-Прототированная модель - 
-V-модель - 
-Агильная модель - 
-ERP системы - 
-Cистемы управления базами данных - 
-Организация проекта - 
-Обмен информацией - 
-Расходы - 
-Качество - 
-Валидирование - 
-Служба поддержки - 
+Локальное управление - kohalik juhtimine
+Централизованное управление - tsentraliseeritud juhtimine
+Распределенное управление - hajutatud juhtimine
+Критический путь проекта - projekti kriitiline tee
+Аутсорсинг - allhange
+Краудсорсинг - ühishange
+IT аудит - IT audit
+ERP системы - ERP süsteemid
+--------------------------------------------
+Методики - meetodid
+Каскадная модель - Koskmudel
+Спиральная модель  - spiraalmudel / spiraalne mudel
+Инкрементальная модель - inkrementaalne mudel
+Прототированная модель - prototüübimudel
+V-модель - V-mudel
+Агильная модель - Agiilne mudel
+ERP системы - ERP süsteemid
+Cистемы управления базами данных - andmebaaside haldussüsteemid
+Организация проекта - projekti organisatsioon
+Обмен информацией - infovahetus
+Расходы - kulud
+Доходы - tulud
+Качество - kvaliteet
+Валидирование - valideerimine
+Служба поддержки - tugiteenus
 lisa veel 10 sõna
