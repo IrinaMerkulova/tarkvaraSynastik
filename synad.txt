@@ -46,4 +46,13 @@ Cистемы управления базами данных - Andmebaasi haldus
 Валидирование - Valideerimine
 Служба поддержки - Togiteenus
 ----------------------------------------------------
-lisa veel 10 sõna
+Связь - Seos
+Обработка данных - Andmetöötlus
+Аппаратное обеспечение - Riistvara
+Операционная система - Operatsioonisüsteem
+Прикладное программное обеспечение - Rakendustarkvara
+Микропрограммное (аппаратно-программное) обеспечение - Püsivara
+Определяемые пользователем данные - Kasutaja andmed
+Язык определения данных - Andmete määratlemise keel
+Системные конфигурационные файлы - Süsteemi konfiguratsioonifailid
+Система обработки данных - Andmetöötlussüsteem
