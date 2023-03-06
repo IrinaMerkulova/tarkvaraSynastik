@@ -48,3 +48,15 @@ Cистемы управления базами данных - Andmebaaside hald
 Служба поддержки - tugiteenus
 ----------------------------------------------  
 lisa veel 10 sõna
+
+результаты- tulemus
+обмен информацией - teabevahetus
+цель - sihtmärk
+проект по разработке -arendusprojekt
+проект по реализации -teostusprojekt
+значимость части реализации -rakendamise osa tähtsust
+оценка хода выполнения проекта -projekti edenemise hindamine
+уверенность в планировании -enesekindlus planeerimises
+точность исходной задачи, предоставляемой клиентом -kliendi antud algse ülesande täpsus
+неохватываемость конечного результата -lõpptulemuse arusaamatus
+
