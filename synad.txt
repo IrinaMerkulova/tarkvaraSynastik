@@ -43,5 +43,17 @@ Cистемы управления базами данных - Andmebaasi haldus
 Расходы - Kulud
 Качество - Kvaliteet
 Валидирование - Kinnitamine
-Служба поддержки - Toetus 
+Служба поддержки - tugiteenus 
+-------------------------------------------
 lisa veel 10 sõna
+1.Интеграция - Integratsioon
+2.Тестирование - Testimine
+3.Релиз - Väljalase
+4.Деплоймент - Paigaldus
+5.Контроль версий - Versioonikontroll
+6.Инструменты разработки - Arendustööriistad
+7.Артефакты - Artefaktid
+8.Производительность - Tulemuslikkus
+9.Планирование - Planeerimine
+10.Масштабирование - Skaleerimine
+
