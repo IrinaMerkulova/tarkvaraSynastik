@@ -47,3 +47,15 @@ Cистемы управления базами данных - andmebaaside hald
 Служба поддержки - tugiteenus
 ---------------------------------------
 lisa veel 10 sõna
+
+Обработка данных - andmetööstlus
+Система обработки данных - andmetööstlussüsteem
+Аппаратное обеспечение - riistvara
+Микропрограммное обеспечение - püsivara
+Операционная система - operatsioonisüsteem
+Прикладное программное обеспечение - rakendustarkvara
+Системные конфигурационные файлы - süsteemi konfiguratsioonifailid
+Определяемые пользователем данные - kasutaja andmed
+Функциональность - funktsionaalsus
+CASE средства - CASE vahendid
+
