@@ -1,34 +1,35 @@
 ПО - Tarkvara
-Процесс разработки ПО - Tarkvara arendusprotsess
-Документация на ПО - Tarkvara dokumentatsioon
+Процесс разработки ПО - tarkvara arendusprotsess
+Документация на ПО - tarkvara dokumentatsioon
 Проект - project
 ИТ проект - IT projekt
 Бизнес-проект - äri projekt
-Проект по разработке - Arendus projekt
+Проект по разработке - arendus projekt
 Проект по реализации - realiseerimis projekt
 Диаграмма Ганта - Gantti diagramm
 UML схема - UML skeem
-Диаграмма прецедентов - 
-Диаграмма последовательности - 
-Диаграмма состояний - 
-Диаграмма активности - 
-Диаграмма классов - 
-Диаграмма взаимодействий - 
+Диаграмма прецедентов - Kasutuslooskeem
+Диаграмма последовательности - Jadaskeem 
+Диаграмма состояний - Olekuskeem
+Диаграмма активности - Tegevusskeem
+Диаграмма классов - Klassiskeem
+Диаграмма взаимодействий - Koostööskeem
 Схема (диаграмма) баз данных- Andmebaasi diagramm
-CASE-средства - CASE cahendid
+CASE-средства - CASE tööriistad
 -------------------------------------------
-Архитектурная/проектная документация - 
-Техническая документация - 
-Пользовательская документация - 
-Система управления версиями - 
-Локальное управление - 
-Централизованное управление - 
-Распределенное управление - 
-Критический путь проекта - 
-Аутсорсинг - 
-Краудсорсинг - 
-IT аудит - 
-ERP системы - 
+Архитектурная/проектная документация - arhitiktuuri / projektidokumentatsioon
+Техническая документация - tehniline dokumentatsioon
+Пользовательская документация - kasutaja dokumentatsioon
+Система управления версиями - versioonihaldus süsteem
+Локальное управление - kohalik juhtimine
+Централизованное управление - tsentraliseeritud juhtimine
+Распределенное управление - hajutatud juhtimine
+Критический путь проекта - projekti kriitiline tee
+Аутсорсинг - allhange
+Краудсорсинг - ühishange
+IT аудит - IT audit
+ERP системы - ERP süsteemid
+-------------------------------------------
 Методики - 
 Каскадная модель - 
 Спиральная модель  - 
