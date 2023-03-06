@@ -47,3 +47,14 @@ Cистемы управления базами данных - Andmebaasi haldus
 Служба поддержки - Tugiteenus
 -----------------------------------------
 lisa veel 10 sõna
+
+Баг - Viga
+Систему управления контентом - Sisuhaldussüsteem
+Выпадающее меню - Rippmenüü
+Анализировать код - Analüüsige koodi
+Навигационный блок - Navigeerimineplokk
+Отладка - Silumine
+модульная сетка - Modulaarne võrk
+Прикладная программа - Rakendusprogramm
+Адаптивный дизайн - Adaptiivne disain
+Хранилище данных - Andmehoidla 
