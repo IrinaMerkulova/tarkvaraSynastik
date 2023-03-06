@@ -46,4 +46,16 @@ Cистемы управления базами данных - andmebaaside hald
 Качество - kvaliteet
 Валидирование - valideerimine
 Служба поддержки - tugiteenus
+--------------------------------------------
 lisa veel 10 sõna
+
+1.Разновидность ПО - Tarkvara tüüp
+2.Цель - Eesmärk
+3.Деятельности - Tegevus
+4.Конфигурационное тестирование - Konfiguratsiooni testimine
+5.Веб-интеграция - Veebi integreerimine
+6.Интеграция данных - Andmete integreerimine
+7.Валидация - Validatsioon / Kinnitamine
+8.Браузер - Brauser
+9.Заказчик - Klient
+10.Пользователь - Kasutaja
