@@ -48,3 +48,20 @@ Cистемы управления базами данных - andmebaasi haldus
 Служба поддержки - tugiteenus
 ---------------------------------------
 lisa veel 10 sõna
+Валидирование ПО - tarkvara valideerimine
+Интеграция данных - andmete integreerimine
+Система обработки данных - andmetetöötlussüsteem
+Жизненный цикл ИС - IP elutsükel
+Конфигурационное тестирование - konfiguratsiooni testimine
+Отладчик(дебаггер) - silur
+Тестирование - testimine
+Обработка данных - andmetöötlus
+Определяемые пользователем данные - kasutaja määratud andmed
+Тестирование системы - süsteemi testimine
+
+
+
+
+
+
+
