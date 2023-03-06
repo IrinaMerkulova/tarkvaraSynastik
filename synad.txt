@@ -48,3 +48,15 @@ Cистемы управления базами данных - Andmebaaside hald
 Служба поддержки - Tugiteenus
 ------------------------------
 lisa veel 10 sõna
+
+Инструменты веб-разработки - Veebiarendustööriistad
+1. Обработка данных - Andmetöötlus
+2. Системные конфигурационные файлы - Süsteemi konfiguratsioonifailid
+3. Программы статистического анализа - Statistilise analüüsi programmid
+4. Программы обработки видеоданных - Video andmetöötlusprogrammid
+5. Восстановление данных - Andmete taastamine
+6. Программа шифрования данных - Andmete krüpteerimisprogramm 
+7. Целостность данных - Andmete terviklikkus
+8. Распространение программного продукта - Tarkvaratoote levitamine
+9. Исходные данные - Algandmed
+10. Интерфейс командной строки - Käsurea liides
