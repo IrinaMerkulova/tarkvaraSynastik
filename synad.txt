@@ -47,4 +47,13 @@ Cистемы управления базами данных - Andmebaasi haldus
 ******************************
 lisa veel 10 sõna
 
-
+1.Блок-схема - Plokkskeem
+2.Веб-служба - Veebiteenus
+3.Интерфейс - Liides
+4.Рупозиторий - Rupositoorium
+5.Ветка - Haru
+6.Язык программирования - Programmeerimiskeel 
+7.Ведение проекта - Projektijuhtimine 
+8.Консоль - Konsool 
+9.Деббагер/откладчик - Siluja
+10.Компьюьерное ПО - Arvutitarkvara 
