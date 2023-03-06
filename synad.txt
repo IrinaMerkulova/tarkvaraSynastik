@@ -46,4 +46,13 @@ Cистемы управления базами данных - Andmebaaside hald
 Валидирование - Valideerimine
 Служба поддержки - Tugiteenus
 -----------------------------------------------------
-lisa veel 10 sõna
+1. Командная строка CMD - CMD käsurida
+2. Обработка данных - andmetöötlus
+3. Аппаратное обеспечение - riistvara
+4. Микропрограммное обеспечение - püsivara
+5. Прикладное программное обеспечение - rakendustarkvara
+6. Системные конфигурационные файлы - süsteemi konfiguratsioonifailid
+7. раздел пояснения ошибок - tõrkeotsing
+8. Среда разработки - Arenduskeskkond
+9. Тестовая среда - Testikeskkond
+10. Рабочая среда - Töökeskkond
