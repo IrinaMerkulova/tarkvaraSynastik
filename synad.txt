@@ -48,3 +48,14 @@ Cистемы управления базами данных - andmebaaside hald
 Служба поддержки - tugiteenus
 ----------------------------
 lisa veel 10 sõna
+Моделирование - Modelleerimine
+Модель процессов проекта - Projekti protsessi mudel
+Графический график - Graafiline diagramm
+Диаграмма Ганта - Gantti diagramm
+Эффективность - Tõhusus
+Распределение ресурсами - Ressursi jaotamine
+Интеграция данных - Andmete integreerimine
+Информационная модель - teabemudel
+Прототипирование - prototüüpimine
+Жизненный цикл ПО - Tarkvara elutsükkel
+
