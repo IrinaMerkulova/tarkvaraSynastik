@@ -47,3 +47,14 @@ Cистемы управления базами данных - Andmebaaside hald
 Служба поддержки - tugi teenus
 --------------------------------------------
 lisa veel 10 sõna
+Структурирование проекта - Projekti struktureerimine
+Подвержены рискам - riskidele avatud
+Проекты  разработки - arendusprojektid
+Проекты  реализации - rakendusprojektid
+Обмен информацией - teabevahetus
+Альтернатива - alternatiivne
+Чистая проектная организация - puhas disainiorganisatsioon
+Матричная проектная организация - maatriksdisaini organisatsioon
+Координация проекта - projekti koordineerimine
+Планирование проекта - projekti planeerimine
+----------------------------------------------
