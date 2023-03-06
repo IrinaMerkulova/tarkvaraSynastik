@@ -44,4 +44,15 @@ Cистемы управления базами данных - Andmebaasi haldus
 Качество - kvaliteet
 Валидирование - valideerimine
 Служба поддержки - tugiteenus
-lisa veel 10 sõna
+-------------------------------------------
+lisa veel 10 sõna:
+Доходы - tulu
+Диаграмма развертывания - kasutuselevõtu skeem
+Язык моделирования - modelleerimiskeel
+Водопадная модель - kose mudel
+Анализ требований - nõuete analüüs
+Информационная модель - informatsiooni mudel
+Интеграция данных - andmete integreerimine
+Компилятор - kompilaator 
+Прототип - prototüüp 
+Структура - struktuur 
