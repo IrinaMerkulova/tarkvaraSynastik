@@ -47,3 +47,13 @@ Cистемы управления базами данных - Andmebaasi haldus
 Служба поддержки - Tugiteenus
 ----------------------------------------------------------
 lisa veel 10 sõna
+Тестирование - Testimine
+Кодирование - Kodeerimine
+Интеграция - Integratsioon
+Сервер - Server
+Клиент - Klient
+Планирование - Planeerimine
+Архивирование - Arhiveerimine
+Резервное копирование - Varundamine
+Безопасность - Turvalisus
+Автоматизация - Automatiseerimine
