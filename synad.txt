@@ -66,3 +66,4 @@ Teostamine - исполнение
 Testimine - тестирование
 Validerimine - соответсвие с шаблоном
 Arendamine - разработка
+
