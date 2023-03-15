@@ -1,58 +1,61 @@
-ПО - 					     Tarkvara
-Процесс разработки ПО -	     Tarkvara arendusprotsess
-Документация на ПО - 	     Tarkvara dokumentatsioon
-Проект - 				      Projekt
-ИТ проект - 				   IT projekt
-Бизнес-проект -				   Äriprojekt
-Проект по разработке -		       Arendusprojekt
-Проект по реализации -		 Realiseerimisprojekt
-Диаграмма Ганта - 		      Gantti diagramm
-UML схема - 				    UML skeem
-Диаграмма прецедентов - 	      Kasutuslooskeem
-Диаграмма последовательности -		    Jadaskeem
-Диаграмма состояний - 			   Olekuskeem
-Диаграмма активности - 			 Tugevusskeem
-Диаграмма классов - 			  Klassiskeem
-Диаграмма взаимодействий - 		 Koostööskeem
-Схема (диаграмма) баз данных - 	     Olemi-suhteskeem
-CASE-средства - 			CASE vahendid
------------------------------------------------------
-Архитектурная/проектная документация - arhitektuuri/projekti dokumentatsioon
-Техническая документация - tehniline dokumentatsioon
-Пользовательская документация - kasutaja dokumentatsioon
-Система управления версиями - versioonihaldus süsteem
-Локальное управление - kohalik juhtimine
-Централизованное управление - tsentraliseeritud juhtimine
-Распределенное управление - hajutatud juhtimine
-Критический путь проекта - projekti kriitiline tee
-Аутсорсинг - Allhange
-Краудсорсинг - Ühishange
-IT аудит - IT audit
-ERP системы - ERP süsteemid
-------------------------------------------------------
-Методики - Meetodid
-Каскадная модель - Koskmudel
-Спиральная модель  - Spiraalmudel / Spiraalne mudel
-Инкрементальная модель - Inkrementaalne mudel
-Прототированная модель - Prototüübimudel
-V-модель - V-mudel
-Агильная модель - Agiilne mudel
-Cистемы управления базами данных - Andmebaaside haldussüsteemid
-Организация проекта - Projekti organisatsioon
-Обмен информацией - Infovahetus
-Расходы - Kulud 
-Доходы - Tulud
-Качество - Kvaliteet
-Валидирование - Valideerimine
-Служба поддержки - Tugiteenus
------------------------------------------------------
-1. Командная строка CMD - CMD käsurida
-2. Обработка данных - andmetöötlus
-3. Аппаратное обеспечение - riistvara
-4. Микропрограммное обеспечение - püsivara
-5. Прикладное программное обеспечение - rakendustarkvara
-6. Системные конфигурационные файлы - süsteemi konfiguratsioonifailid
-7. раздел пояснения ошибок - tõrkeotsing
-8. Среда разработки - Arenduskeskkond
-9. Тестовая среда - Testikeskkond
-10. Рабочая среда - Töökeskkond
+1. ПО - 					     Tarkvara
+2. Процесс разработки ПО -	     Tarkvara arendusprotsess
+3. Документация на ПО - 	     Tarkvara dokumentatsioon
+4. Проект - 				      Projekt
+5. ИТ проект - 				   IT projekt
+6. Бизнес-проект -				   Äriprojekt
+7. Проект по разработке -		       Arendusprojekt
+8. Проект по реализации -		 Realiseerimisprojekt
+9. Диаграмма Ганта - 		      Gantti diagramm
+10. UML схема - 				    UML skeem
+11. Диаграмма прецедентов - 	      Kasutuslooskeem
+12. Диаграмма последовательности -		    Jadaskeem
+13. Диаграмма состояний - 			   Olekuskeem
+14. Диаграмма активности - 			 Tugevusskeem
+15. Диаграмма классов - 			  Klassiskeem
+16. Диаграмма взаимодействий - 		 Koostööskeem
+17. Схема (диаграмма) баз данных - 	     		        Olemi-suhteskeem
+18. CASE-средства - 					           CASE vahendid
+--------------------------------------------------------------------------------
+19. Архитектурная/проектная документация - arhitektuuri/projekti dokumentatsioon
+Техническая документация - 			       tehniline dokumentatsioon
+Пользовательская документация - 		        kasutaja dokumentatsioon
+Система управления версиями - 			         versioonihaldus süsteem
+Локальное управление - 					       kohalik juhtimine
+Централизованное управление - 			 tsentraliseeritud juhtimine
+Распределенное управление - 				 hajutatud juhtimine
+Критический путь проекта - 			     projekti kriitiline tee
+Аутсорсинг - 							    Allhange
+Краудсорсинг - 							   Ühishange
+IT аудит - 							    IT audit
+ERP системы - 						       ERP süsteemid
+----------------------------------------------------------------------------
+Методики - 							    Meetodid
+Каскадная модель - 						   Koskmudel
+Спиральная модель  - 			      Spiraalmudel / Spiraalne mudel
+Инкрементальная модель - 				Inkrementaalne mudel
+Прототированная модель - 				     Prototüübimudel
+V-модель - 							     V-mudel
+Агильная модель - 					       Agiilne mudel
+Cистемы управления базами данных - 		Andmebaaside haldussüsteemid
+Организация проекта - 				     Projekti organisatsioon
+Обмен информацией - 						 Infovahetus
+Расходы - 							       Kulud 
+Доходы - 							       Tulud
+Качество - 							   Kvaliteet
+Валидирование - 					       Valideerimine
+Служба поддержки - 						  Tugiteenus
+----------------------------------------------------------------------------
+1. Командная строка CMD - 					CMD käsurida
+2. Обработка данных - 						andmetöötlus
+3. Аппаратное обеспечение - 					   riistvara
+4. Микропрограммное обеспечение - 				    püsivara
+5. Прикладное программное обеспечение - 		    rakendustarkvara
+6. Системные конфигурационные файлы - 	     süsteemi konfiguratsioonifailid
+7. раздел пояснения ошибок - 					 tõrkeotsing
+8. Среда разработки - 					     Arenduskeskkond
+9. Тестовая среда - 					       Testikeskkond
+10. Рабочая среда - 						 Töökeskkond
+----------------------------------------------------------------------------
+Планирование - 							 Kavandamine
+Реализация - 							  Teostamine
