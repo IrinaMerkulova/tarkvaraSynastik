@@ -56,4 +56,13 @@ lisa veel 10 sõna
 8.Производительность - Tulemuslikkus
 9.Планирование - Planeerimine
 10.Масштабирование - Skaleerimine
-
+-------------------------------------------
+VEEBILEHELE LOOMISE ETAAPID:
+-------------------------------------------
+Kavaldamine - планирование
+Kavad - проект,эскиз,план
+Disaimine - дизайн
+Teostamine - исполнение 
+Testimine - тестирование
+Validerimine - соответсвие с шаблоном
+Arendamine - разработка
