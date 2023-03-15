@@ -58,6 +58,40 @@ lisa veel 10 sõna
 Обработка данных - andmetöötlus
 Определяемые пользователем данные - kasutaja määratud andmed
 Тестирование системы - süsteemi testimine
+---------------------------------------
+VEEBILEHE LOOMISE ETAAPID
+---------------------------------------
+Kavandamine - планирование
+Kavand - проект/план/эскиз
+disainimine - дизайн
+teostamine - реализация/исполнение/осуществление
+testimine - тестирование
+valideerimine - валидирование/соответсвие шаблону
+arendamine - разработка
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
