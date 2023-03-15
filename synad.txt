@@ -58,3 +58,13 @@ lisa veel 10 sõna
 Прикладная программа - Rakendusprogramm
 Адаптивный дизайн - Adaptiivne disain
 Хранилище данных - Andmehoidla 
+-----------------------------------------
+!----Veebilehe loomise etaapid----!
+-----------------------------------------
+Kavandamine - Планирование
+Kavand - Проект, план, эскиз
+Disainimine - Дизайн
+Teostamine - Реализация, исполнение, осуществление
+Testimine - Тестирование
+Valideerimine - Проверка
+Arendamine - Разработка
