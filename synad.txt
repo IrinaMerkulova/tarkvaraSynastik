@@ -56,3 +56,13 @@ Cистемы управления базами данных - Andmebaasi haldus
 Язык определения данных - Andmete määratlemise keel
 Системные конфигурационные файлы - Süsteemi konfiguratsioonifailid
 Система обработки данных - Andmetöötlussüsteem
+-----------------------------------------------------
+Veebilehe loomise etaapid:
+-----------------------------------------------------
+Kavandamine - Планирование
+Kavand - Проект/план/эскиз
+Disainimine - Дизайн
+Teostamine - Реализация, исполнение, осуществление
+Testimine - тестирование
+Valideerimine - Соответствие шаблону
+Arendamine - Разработка
