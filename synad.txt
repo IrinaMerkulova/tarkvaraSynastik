@@ -59,3 +59,12 @@ lisa veel 10 sõna
 8.Браузер - Brauser
 9.Заказчик - Klient
 10.Пользователь - Kasutaja
+--------------------------------------------
+Veebilehe loomise etaapid:
+kavandamine - планирование
+kavand - проект/план/эскиз
+disainimine - дизайн
+teostamine - реализация/исполнение/осуществление
+testimine - тестирование
+valideerimine - соответсвие шаблону
+arendamine - разработка
