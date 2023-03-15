@@ -1,61 +1,61 @@
-1. ПО - 					     Tarkvara
-2. Процесс разработки ПО -	     Tarkvara arendusprotsess
-3. Документация на ПО - 	     Tarkvara dokumentatsioon
-4. Проект - 				      Projekt
-5. ИТ проект - 				   IT projekt
-6. Бизнес-проект -				   Äriprojekt
-7. Проект по разработке -		       Arendusprojekt
-8. Проект по реализации -		 Realiseerimisprojekt
-9. Диаграмма Ганта - 		      Gantti diagramm
-10. UML схема - 				    UML skeem
-11. Диаграмма прецедентов - 	      Kasutuslooskeem
-12. Диаграмма последовательности -		    Jadaskeem
-13. Диаграмма состояний - 			   Olekuskeem
-14. Диаграмма активности - 			 Tugevusskeem
-15. Диаграмма классов - 			  Klassiskeem
-16. Диаграмма взаимодействий - 		 Koostööskeem
+1. ПО - 					     			Tarkvara
+2. Процесс разработки ПО -	     			Tarkvara arendusprotsess
+3. Документация на ПО - 	     			Tarkvara dokumentatsioon
+4. Проект - 				      				 Projekt
+5. ИТ проект - 				   			      IT projekt
+6. Бизнес-проект -				   		      Äriprojekt
+7. Проект по разработке -		       			  Arendusprojekt
+8. Проект по реализации -		 		    Realiseerimisprojekt
+9. Диаграмма Ганта - 		      				 Gantti diagramm
+10. UML схема - 				    		       UML skeem
+11. Диаграмма прецедентов - 	      				 Kasutuslooskeem
+12. Диаграмма последовательности -		    		       Jadaskeem
+13. Диаграмма состояний - 			   		      Olekuskeem
+14. Диаграмма активности - 			 		    Tugevusskeem
+15. Диаграмма классов - 			  		     Klassiskeem
+16. Диаграмма взаимодействий - 		 			    Koostööskeem
 17. Схема (диаграмма) баз данных - 	     		        Olemi-suhteskeem
 18. CASE-средства - 					           CASE vahendid
 --------------------------------------------------------------------------------
 19. Архитектурная/проектная документация - arhitektuuri/projekti dokumentatsioon
-Техническая документация - 			       tehniline dokumentatsioon
-Пользовательская документация - 		        kasutaja dokumentatsioon
-Система управления версиями - 			         versioonihaldus süsteem
-Локальное управление - 					       kohalik juhtimine
-Централизованное управление - 			 tsentraliseeritud juhtimine
-Распределенное управление - 				 hajutatud juhtimine
-Критический путь проекта - 			     projekti kriitiline tee
-Аутсорсинг - 							    Allhange
-Краудсорсинг - 							   Ühishange
-IT аудит - 							    IT audit
-ERP системы - 						       ERP süsteemid
-----------------------------------------------------------------------------
-Методики - 							    Meetodid
-Каскадная модель - 						   Koskmudel
-Спиральная модель  - 			      Spiraalmudel / Spiraalne mudel
-Инкрементальная модель - 				Inkrementaalne mudel
-Прототированная модель - 				     Prototüübimudel
-V-модель - 							     V-mudel
-Агильная модель - 					       Agiilne mudel
-Cистемы управления базами данных - 		Andmebaaside haldussüsteemid
-Организация проекта - 				     Projekti organisatsioon
-Обмен информацией - 						 Infovahetus
-Расходы - 							       Kulud 
-Доходы - 							       Tulud
-Качество - 							   Kvaliteet
-Валидирование - 					       Valideerimine
-Служба поддержки - 						  Tugiteenus
-----------------------------------------------------------------------------
-1. Командная строка CMD - 					CMD käsurida
-2. Обработка данных - 						andmetöötlus
-3. Аппаратное обеспечение - 					   riistvara
-4. Микропрограммное обеспечение - 				    püsivara
-5. Прикладное программное обеспечение - 		    rakendustarkvara
-6. Системные конфигурационные файлы - 	     süsteemi konfiguratsioonifailid
-7. раздел пояснения ошибок - 					 tõrkeotsing
-8. Среда разработки - 					     Arenduskeskkond
-9. Тестовая среда - 					       Testikeskkond
-10. Рабочая среда - 						 Töökeskkond
-----------------------------------------------------------------------------
-Планирование - 							 Kavandamine
-Реализация - 							  Teostamine
+20. Техническая документация - 			       tehniline dokumentatsioon
+21. Пользовательская документация - 		        kasutaja dokumentatsioon
+22. Система управления версиями - 			 versioonihaldus süsteem
+23. Локальное управление - 				       kohalik juhtimine
+24. Централизованное управление - 		     tsentraliseeritud juhtimine
+25. Распределенное управление - 			     hajutatud juhtimine
+26. Критический путь проекта - 			         projekti kriitiline tee
+27. Аутсорсинг - 							Allhange
+28. Краудсорсинг - 						       Ühishange
+29. IT аудит - 							        IT audit
+30. ERP системы - 						   ERP süsteemid
+--------------------------------------------------------------------------------
+31. Методики - 							        Meetodid
+32. Каскадная модель - 						       Koskmudel
+33. Спиральная модель  - 			  Spiraalmudel / Spiraalne mudel
+34. Инкрементальная модель - 				    Inkrementaalne mudel
+35. Прототированная модель - 				         Prototüübimudel
+36. V-модель - 							         V-mudel
+37. Агильная модель - 					           Agiilne mudel
+38. Cистемы управления базами данных - 		    Andmebaaside haldussüsteemid
+39. Организация проекта - 				 Projekti organisatsioon
+40. Обмен информацией - 					     Infovahetus
+41. Расходы - 							           Kulud 
+42. Доходы - 							           Tulud
+43. Качество - 							       Kvaliteet
+44. Валидирование - 					           Valideerimine
+45. Служба поддержки - 						      Tugiteenus
+--------------------------------------------------------------------------------
+46. Командная строка CMD - 					    CMD käsurida
+47. Обработка данных - 						    andmetöötlus
+48. Аппаратное обеспечение - 					       riistvara
+49. Микропрограммное обеспечение - 				        püsivara
+50. Прикладное программное обеспечение - 		        rakendustarkvara
+51. Системные конфигурационные файлы - 	         süsteemi konfiguratsioonifailid
+52. раздел пояснения ошибок - 					     tõrkeotsing
+53. Среда разработки - 					         Arenduskeskkond
+54. Тестовая среда - 					           Testikeskkond
+55. Рабочая среда - 						     Töökeskkond
+--------------------------------------------------------------------------------
+56. Планирование - 						     Kavandamine
+57. Реализация - 						      Teostamine
