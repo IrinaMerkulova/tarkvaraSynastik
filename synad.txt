@@ -17,44 +17,41 @@ UML схема - UML skeem
 Схема (диаграмма) баз данных- Andmebaasi diagramm
 CASE-средства - CASE cahendid
 -------------------------------------------
-Архитектурная/проектная документация - arhitektuuri/projektidokumentatsioon
-Техническая документация - tehniline dokumentatsioon
-Пользовательская документация - kasutaja dokumentatsioon
-Система управления версиями - versioonihaldus süsteem
-Локальное управление - kohalik juhtimine
-Централизованное управление - tsentraliseeritud juhtimine
-Распределенное управление - hajutatud juhtimine
-Критический путь проекта - projekti kriitiline tee
-Аутсорсинг - Allhange
-Краудсорсинг - Ühishange
-IT аудит - IT audit
-ERP системы - ERP süsteemid
---------------------------------------------
-Методики - meetodid
-Каскадная модель - Koskmudel
-Спиральная модель  - Spiraalmudel/spiraalne mudel
-Инкрементальная модель - inkrementaalne mudel
-Прототированная модель - prototüübimudel
-V-модель - V-mudel
-Агильная модель - agiilne mudel
-Cистемы управления базами данных - Andmebaaside haldussüsteemid
-Организация проекта - Projekti orgatsioon
-Обмен информацией - Infovahetus
-Расходы - kulud
-Доходы - tulud
-Качество - Kvaliteet
-Валидирование - valideerimine
-Служба поддержки - tugi teenus
---------------------------------------------
-lisa veel 10 sõna
-Структурирование проекта - Projekti struktureerimine
-Подвержены рискам - riskidele avatud
-Проекты  разработки - arendusprojektid
-Проекты  реализации - rakendusprojektid
-Обмен информацией - teabevahetus
-Альтернатива - alternatiivne
-Чистая проектная организация - puhas disainiorganisatsioon
-Матричная проектная организация - maatriksdisaini organisatsioon
-Координация проекта - projekti koordineerimine
-Планирование проекта - projekti planeerimine
-----------------------------------------------
+Архитектурная/проектная документация - 
+Техническая документация - 
+Пользовательская документация - 
+Система управления версиями - 
+Локальное управление - 
+Централизованное управление - 
+Распределенное управление - 
+Критический путь проекта - 
+Аутсорсинг - 
+Краудсорсинг - 
+IT аудит - 
+ERP системы - 
+Методики - 
+Каскадная модель - 
+Спиральная модель  - 
+Инкрементальная модель - 
+Прототированная модель - 
+V-модель - 
+Агильная модель - 
+ERP системы - 
+Cистемы управления базами данных - 
+Организация проекта - 
+Обмен информацией - 
+Расходы - 
+Качество - 
+Валидирование - 
+Служба поддержки - 
+
+------------------------------------
+VEEBILEHE LOOMISE ETAAPID 
+------------------------------------
+Kavandamine - планирование 
+Kavand - проект /план /эскиз 
+disainimine -дизайн
+teostamine- реализация 
+testimine -тестирование
+valedeerimine валидирование 
+arendamine-разработка
