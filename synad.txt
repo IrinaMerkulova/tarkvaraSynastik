@@ -55,4 +55,14 @@ lisa veel 10 sõna:
 Интеграция данных - andmete integreerimine
 Компилятор - kompilaator 
 Прототип - prototüüp 
-Структура - struktuur 
+Структура - struktuur
+-------------------------------------------
+Veebilehe loomise etaapid:
+-------------------------------------------
+Kavandamine - клонирование
+Kavand - проект, план, эскиз
+Disainimine - дизайн
+Teostamine - реализация, исполнение
+Testimine - тестирование
+Valideerimine - проверка
+Arendamine - разработка
