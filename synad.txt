@@ -1,4 +1,4 @@
-ПО - Tarkvara
+﻿ПО - Tarkvara
 Процесс разработки ПО - Tarkvara arendusprotsess
 Документация на ПО - Tarkvara dokumentatsioon
 Проект - project
@@ -45,3 +45,13 @@ Cистемы управления базами данных -
 Валидирование - 
 Служба поддержки - 
 lisa veel 10 sõna
+----------------------------
+Veebilehe loomise etappid:
+----------------------------
+Kavandamine - Планирование
+Kavanda - Проект, план, эскиз
+Disainimine - Дизайн 
+Teostamine - Реализация, исполнение, осуществление 
+Testimine- тестирование 
+valideerimine - валидирование, соотведствие шаблону  
+arendamine - Разработка 
