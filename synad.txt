@@ -58,4 +58,14 @@ lisa veel 10 sõna
 Информационная модель - teabemudel
 Прототипирование - prototüüpimine
 Жизненный цикл ПО - Tarkvara elutsükkel
+------------------------------
+Veebilehe loomise etaapid:
+------------------------------
+Kavandamine - Планирование
+Kavand -  проект, проект, эскиз
+Disainimine - Дизайн
+Teostamine - Реализация, исполнение, осуществление
+Testimine - Тестирование
+Valideerimine - Проверка
+Arendamine - Разработка
 
