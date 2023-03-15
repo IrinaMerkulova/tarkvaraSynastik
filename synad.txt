@@ -57,3 +57,13 @@ lisa veel 10 sõna
 Резервное копирование - Varundamine
 Безопасность - Turvalisus
 Автоматизация - Automatiseerimine
+-----------------------------------------------------------
+VEEBILEHE LOOMISE ETAAPID:
+-----------------------------------------------------------
+Kavaldamine - Планирование
+Kavad - Проект, эскиз, план
+Disainmine- Дизайн
+Teostamine - Исполнение
+Testimine - Тестирование
+Validerimine - Соответствие с шаблоном
+Arendamine - Разработка
