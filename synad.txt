@@ -60,3 +60,11 @@ lisa veel 10 sõna
 8. Распространение программного продукта - Tarkvaratoote levitamine
 9. Исходные данные - Algandmed
 10. Интерфейс командной строки - Käsurea liides
+----------------------------------
+Kavandamine - Планирование
+Kavand - проект/план/эскиз
+Disaimine - дизайн
+Teostamine - исполнение/осуществление
+Testimine - Тестирование
+Valideerimine - соответствие шаблону
+Arendamine - разработка
