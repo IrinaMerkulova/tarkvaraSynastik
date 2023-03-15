@@ -30,19 +30,25 @@ CASE-средства - CASE vähendid
 IT аудит - IT audit
 ERP системы - ERP süstemid 
 --------------------------------------
-Методики -    
-Каскадная модель - 
-Спиральная модель  - 
-Инкрементальная модель - 
-Прототированная модель - 
-V-модель - 
-Агильная модель - 
-ERP системы - 
-Cистемы управления базами данных - 
-Организация проекта - 
-Обмен информацией - 
-Расходы - 
-Качество - 
-Валидирование - 
-Служба поддержки - 
+Методики - Meetodid   
+Каскадная модель - Koskmudel
+Спиральная модель  - Spiraalmudel / Spiraalnemudel
+Инкрементальная модель - Inkrementaalnemudel
+Прототированная модель - Prototüübimudel
+V-модель - V-mudel
+Агильная модель - Agiilnemudel
+ERP системы - ERP süstemid
+Cистемы управления базами данных - Andmebaaside haldussüsteemid
+Организация проекта - Projekti organisatsioon
+Обмен информацией - Infoteenus 
+Расходы - Tulud
+Качество - Kvaliteet
+Валидирование - Valideerimine
+Служба поддержки - Tugiteenus
 lisa veel 10 sõna
+Планирование - Kavandamine 
+План - kavand
+Disainimine - Дизайн
+Teostamine - Реализация/Исполнение
+Arendamine - Развитие
+
