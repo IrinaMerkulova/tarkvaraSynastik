@@ -58,4 +58,16 @@ lisa veel 10 sõna
 Определяемые пользователем данные - kasutaja andmed
 Функциональность - funktsionaalsus
 CASE средства - CASE vahendid
+------------------------------------------------------------------
+veebilehe loomise etaapid:
+------------------------------------------------------------------
+
+kavandamine - планирование
+kavand - план, эскиз
+disainimine - дизайн
+teostamine - реализация, исполнение, осуществление
+testimine - тестирование
+valideerimine - соответствие  шаблону
+arendamine - разработка
+
 
