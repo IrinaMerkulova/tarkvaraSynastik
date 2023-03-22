@@ -37,7 +37,7 @@ ERP системы - ERP süsteemid
 Прототированная модель - prototüübi mudel
 V-модель - V-mudel
 Агильная модель - Agiilne mudel
-Cистемы управления базами данных - Andmebaasi haldussüsteemid
+Cистемы управления базами данных - Andmebaasi haldussüsteemid !!
 Организация проекта - Projekti korraldamine
 Обмен информацией - Infovahetus
 Расходы - Kulud
